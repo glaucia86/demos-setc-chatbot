@@ -1,7 +1,7 @@
 /**
  * 
  * Arquivo: olaMundo.js
- * Data: 09/06/2018
+ * Data: 26/09/2018
  * Descrição: Desenvolvimento de um Bot via Console.
  * Author: Glaucia Lemos
  *
